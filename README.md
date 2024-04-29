@@ -2,19 +2,11 @@
 
 This is a [React](https://reactjs.org/) project bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and structured/developed by Joel Olawanle.
 
-For this app, we made use of react.js to create a blog showcase application that retrieves all blogposts from GraphCMS by querying data using GraphQL and implemented pagination from scratch and using a package. Test it our [here](https://graphcms-react-pagination.netlify.app/).
+For this app, we made use of react.js to create a blog showcase application that retrieves all blog posts from GraphCMS by querying data using GraphQL and implemented pagination from scratch and using a package. Test it our [here](https://blog-pagination.vercel.app/).
 
-![image](https://user-images.githubusercontent.com/57611810/172117962-2153baf8-3671-485d-9cd6-9e44fc0e9a35.png)
+![image](https://github.com/rashmibhaskar/react-pagination/blob/main/ss.png?raw=true)
 
-## Quick Info
-This repository has 4 branches of which 3 are very specific and handle pagination in different ways based on how they were explain in the GraphCMS React Pagination article.
-
-These are the methods and they link to the specific branch so you can access their codes differently:
-- [Pagination with GraphCMS and GraphQL using React and GraphCMS argument from Scratch](https://github.com/olawanlejoel/GraphCMS-react-pagination/tree/graphcms-pagination-method)
-- [Pagination with React from scratch](https://github.com/olawanlejoel/GraphCMS-react-pagination/tree/js-paginate-scratch)
-- [Pagination with ReactPaginate external library](https://github.com/olawanlejoel/GraphCMS-react-pagination/tree/reactpaginate-method)
-
----
+[View Learning Resources](https://hygraph.com/blog/react-pagination)
 
 ## Available Scripts
 
