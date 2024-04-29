@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Blog Posts - Pagination Component
 
 This is a [React](https://reactjs.org/) project bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and structured/developed by Joel Olawanle.
 
